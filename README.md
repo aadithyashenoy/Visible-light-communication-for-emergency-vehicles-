@@ -53,7 +53,7 @@ The use of LiFi technology for transmitting distress signals from stranded emerg
 - List of all referenced works and research papers.
 
 ## Contact
-- For further information, please contact [Your Contact Information].
+- For further information, please contact [aadithyashenoyr@gmail.com].
 
 ## Privacy and Security
 - This project ensures the privacy and security of transmitted data by leveraging the secure nature of light-based communication, which is less prone to interference and eavesdropping compared to traditional RF communication.
